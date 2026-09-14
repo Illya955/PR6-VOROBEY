@@ -7,6 +7,7 @@ Student: Воробей Ілля
 Group: IT-31
 
 Course: Python programming, semester 1
+Email: vorobey.iv2008@gmail.com
 
 
 
@@ -19,6 +20,5 @@ Course: Python programming, semester 1
 \- practice4 - loops
 
 \- practice5 - functions
-
 
 
